@@ -2,4 +2,6 @@
 .libraryCard{display:grid;width:100%;grid-template-columns:1fr auto;grid-template-areas:"name chev" "meta chev";text-align:left;align-items:center;margin:10px 0}.libraryName{grid-area:name;font-weight:750;font-size:17px}.libraryMeta{grid-area:meta;margin-top:5px}.chevron{grid-area:chev;font-size:28px;color:var(--muted);padding-left:12px}.detailTitle{font-size:28px}.detailStats .card{margin:0}.smallStat{font-size:18px}.historySets{margin-top:10px}.historyEntry .pill{font-size:13px}
 
 .autoBtn{width:100%;font-size:18px;min-height:54px;margin-top:8px}.autoHint{margin:9px 0 12px;line-height:1.35}.secondaryRec{width:100%;background:transparent;border:1px solid var(--line);color:var(--text)}
-.quickActions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}.quickActions .autoBtn,.quickActions .fullBtn{width:100%;min-height:52px}.fullBtn{background:var(--good)!important;color:#07140d!important}@media(max-width:390px){.quickActions{grid-template-columns:1fr}}
+.quickActions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}.quickActions .autoBtn,.quickActions .fullBtn{width:100%;min-height:52px}.fullBtn{background:#30d158!important;color:#06140b!important}@media(max-width:390px){.quickActions{grid-template-columns:1fr}}
+
+.finishActions{display:grid;grid-template-columns:2fr 1fr;gap:10px;margin-top:14px}.finishActions button{width:100%;min-height:50px}.cancelRAW{background:#2a1818!important;color:#ff6961!important;border:1px solid #5a2525!important}@media(max-width:390px){.finishActions{grid-template-columns:1fr}}
