@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Full Reverse Crunch",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 2,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Incline Hip Thrust",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 3,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Incline Reverse Crunch",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 4,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Lying Hip Thrust",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 5,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Reverse Medicine Ball Crunch",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 6,
+    "muscleGroup": "Abdominals - Lower",
+    "name": "Reverse Crunch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 7,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Bent-Knee Medicine Ball Hip Rotation",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 8,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Cable Chop",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 9,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Cross Crunch w/ Medicine Ball",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 10,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Decline Cross Sit-Up",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 11,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Decline Sit-Up w/ Twist",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 12,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Reverse Cable Chop",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 13,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Seated Medicine Ball Twist",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 14,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Trunk Rotator",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 15,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Alternating Heel Touch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 16,
+    "muscleGroup": "Abdominals - Obliques",
+    "name": "Cross Crunch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 17,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Ab Cycle",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 18,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm)",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 19,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Medicine Ball V-Up",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 20,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Side-Plank (from toes)",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 21,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Front Plank (from knees)",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 22,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Side-Plank (hip lift)",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 23,
+    "muscleGroup": "Abdominals - Total",
+    "name": "V-Up",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 24,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Front Plank (from toes)",
+    "level": "Intermediate",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 25,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Kneeling Ab Rollout",
+    "level": "Intermediate",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 26,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Side-Plank (from knees)",
+    "level": "Intermediate",
+    "region": "Core",
+    "function": "Static",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 27,
+    "muscleGroup": "Abdominals - Total",
+    "name": "Weighted V-Up",
+    "level": "Intermediate",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 28,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Decline Crunch",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 29,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Decline Sit-Up",
+    "level": "Advanced",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 30,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Bent Knee Sit-Up",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 31,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Bent-Knee Crunch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 32,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Crunch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 33,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Crunch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 34,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Heel Touch",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 35,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Sit-Up",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 36,
+    "muscleGroup": "Abdominals - Upper",
+    "name": "Weighted Crunch",
+    "level": "Intermediate",
+    "region": "Core",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 37,
+    "muscleGroup": "Lower Back - Erector Spinae",
+    "name": "Alternating Superman",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 38,
+    "muscleGroup": "Lower Back - Erector Spinae",
+    "name": "Back Raise",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 39,
+    "muscleGroup": "Lower Back - Erector Spinae",
+    "name": "Quadruped Alternating Superman",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 40,
+    "muscleGroup": "Lower Back - Erector Spinae",
+    "name": "Superman",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 41,
+    "muscleGroup": "Lower Back - Erector Spinae",
+    "name": "Superman Hold",
+    "level": "Beginner",
+    "region": "Core",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 42,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Barbell Calf Raise",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 43,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Single-Leg Calf Press",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 44,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Single-Leg Dumbbell Calf Raise",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 45,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Calf Press",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 46,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Calf Raise - Seated",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 47,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Calf Raise - Standing",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 48,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Dumbbell Calf Raise",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 49,
+    "muscleGroup": "Calves - Gastrocnemius",
+    "name": "Smith Machine Calf Raise",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 50,
+    "muscleGroup": "Calves - Soleus",
+    "name": "Seated Calf Raise",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 51,
+    "muscleGroup": "Calves - Soleus",
+    "name": "Seated Single-Leg Calf Raise",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 52,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Bent-Knee Single-Leg Hip Lift",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 53,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Deadlift",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 54,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Elevated Single-Leg Hip Lift",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 55,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Hip Lift",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 56,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Leg Curl",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 57,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Lying Leg Curl",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 58,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Seated Leg Curl",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 59,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Elevated Hip Lift",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 60,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Lying Alternating Leg Curl",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 61,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Lying Single-Leg Curl",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 62,
+    "muscleGroup": "Legs - Hamstrings",
+    "name": "Single-Leg Hip Lift",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 63,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Diagonal Lunge",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 64,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Hack Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 65,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Split Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 66,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Step-Up",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 67,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Walking Lunge",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 68,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Diagonal Lunge",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 69,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Split Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 70,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Walking Lunge",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 71,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lateral Barbell Step-Up",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 72,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Arm Barbell Side Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 73,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Barbell Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 74,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Box Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 75,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Dumbbell Box Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 76,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Split Squat",
+    "level": "Advanced",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 77,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Squat",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 78,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Lunge",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 79,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Squat",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 80,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Step-Up",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 81,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Forward Lunge",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 82,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lateral Squat",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 83,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lateral Step-Up",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 84,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Leg Extension",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 85,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Leg Press",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 86,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lunge",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 87,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lying Machine Squat",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 88,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Machine Hack Squat",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 89,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Reverse Lunge",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 90,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Step-Up",
+    "level": "Beginner",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 91,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Alternating Leg Extension",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 92,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 93,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Reverse Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 94,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Barbell Side Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 95,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Diagonal Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 96,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Reverse Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 97,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Dumbbell Side Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 98,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Lateral Barbell Squat",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 99,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Arm Dumbbell Side Squat",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 100,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Dumbbell Squat",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 101,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Extension",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 102,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Single-Leg Squat",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 103,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Smith Machine Squat",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 104,
+    "muscleGroup": "Legs - Quadriceps",
+    "name": "Walking Lunge",
+    "level": "Intermediate",
+    "region": "Lower",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 105,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Reverse-Grip Barbell Row",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 106,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Single-Arm Long Barbell Row",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 107,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Reverse Incline Dumbbell Row",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 108,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Barbell Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 109,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Dumbbell Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 110,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Hammer Dumbbell Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 111,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Machine Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 112,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "One Arm Dumbbell Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 113,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Seated Cable Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 114,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Seated Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 115,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Single-Arm Dumbbell Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 116,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Standing Cable Row",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 117,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Alternating Dumbbell Row",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 118,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Bent-Over Long Barbell Row",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 119,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Rope Cable Row",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 120,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Single-Arm Cable Row",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 121,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Single-Arm Lat Pulldown",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 122,
+    "muscleGroup": "Back - Lat.Dorsi/Rhomboids",
+    "name": "Standing Single-Arm Cable Row",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 123,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Inverted Pull-Up",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 124,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Reverse-Grip Pull-Up",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 125,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "V-Bar Pull-Up",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 126,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Assisted Pull-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 127,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Close-Grip Lat Pulldown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 128,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Lat Pulldown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 129,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Pull-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 130,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Wide-Grip Lat Pulldown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 131,
+    "muscleGroup": "Back - Latissimus Dorsi",
+    "name": "Reverse-Grip Lat Pullown",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "M"
+  },
+  {
+    "id": 132,
+    "muscleGroup": "Biceps",
+    "name": "Bottom/Top/Full Curls",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 133,
+    "muscleGroup": "Biceps",
+    "name": "Cross Body Hammer Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 134,
+    "muscleGroup": "Biceps",
+    "name": "Incline Alternating Dumbbell Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 135,
+    "muscleGroup": "Biceps",
+    "name": "Incline Alternating Hammer Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 136,
+    "muscleGroup": "Biceps",
+    "name": "Incline Dumbbell Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 137,
+    "muscleGroup": "Biceps",
+    "name": "Incline Hammer Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 138,
+    "muscleGroup": "Biceps",
+    "name": "Lying High Cable Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 139,
+    "muscleGroup": "Biceps",
+    "name": "Overhead Double Biceps Cable Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 140,
+    "muscleGroup": "Biceps",
+    "name": "Overhead Rope Cable Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 141,
+    "muscleGroup": "Biceps",
+    "name": "Preacher Barbell Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 142,
+    "muscleGroup": "Biceps",
+    "name": "Preacher Cable Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 143,
+    "muscleGroup": "Biceps",
+    "name": "Preacher EZ-Bar Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 144,
+    "muscleGroup": "Biceps",
+    "name": "Reverse Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 145,
+    "muscleGroup": "Biceps",
+    "name": "Spider Curl",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 146,
+    "muscleGroup": "Biceps",
+    "name": "Alternating Dumbbell Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 147,
+    "muscleGroup": "Biceps",
+    "name": "Alternating Hammer Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 148,
+    "muscleGroup": "Biceps",
+    "name": "Barbell Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 149,
+    "muscleGroup": "Biceps",
+    "name": "Bicep Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 150,
+    "muscleGroup": "Biceps",
+    "name": "Dumbbell Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 151,
+    "muscleGroup": "Biceps",
+    "name": "Hammer Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 152,
+    "muscleGroup": "Biceps",
+    "name": "Kneeling Cable Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 153,
+    "muscleGroup": "Biceps",
+    "name": "Machine Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 154,
+    "muscleGroup": "Biceps",
+    "name": "Seated Alternating Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 155,
+    "muscleGroup": "Biceps",
+    "name": "Seated Alternating Hammer Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 156,
+    "muscleGroup": "Biceps",
+    "name": "Seated Dumbbell Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 157,
+    "muscleGroup": "Biceps",
+    "name": "Seated Hammer Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 158,
+    "muscleGroup": "Biceps",
+    "name": "Single-Arm Barbell Curl",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 159,
+    "muscleGroup": "Biceps",
+    "name": "Single-Arm Dumbbell Curl w/ Incline Bench",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 160,
+    "muscleGroup": "Biceps",
+    "name": "Cable Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 161,
+    "muscleGroup": "Biceps",
+    "name": "Concentration Dumbbell Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 162,
+    "muscleGroup": "Biceps",
+    "name": "EZ-Bar Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 163,
+    "muscleGroup": "Biceps",
+    "name": "Lying Cable Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 164,
+    "muscleGroup": "Biceps",
+    "name": "Lying Double Biceps Cable Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 165,
+    "muscleGroup": "Biceps",
+    "name": "Preacher Dumbbell Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 166,
+    "muscleGroup": "Biceps",
+    "name": "Preacher Hammer Dumbbell Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 167,
+    "muscleGroup": "Biceps",
+    "name": "Preacher Single-Arm Dumbbell Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 168,
+    "muscleGroup": "Biceps",
+    "name": "Rope Cable Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 169,
+    "muscleGroup": "Biceps",
+    "name": "Single-Arm Cable Curl",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Pull",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 170,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Cable Crossover",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 171,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Cable Fly",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 172,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Decline Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 173,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Decline Dumbbell Fly",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 174,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Decline Smith Machine Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 175,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Elevated Push-Up",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 176,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "High Cable Crossover",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 177,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Alternating Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 178,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Barbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 179,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 180,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Cable Fly",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 181,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 182,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Dumbbell Fly",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 183,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Hammer Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 184,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Single-Arm Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 185,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Smith Machine Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 186,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Twisting Dumbbell Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 187,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Incline Twisting Dumbbell Fly",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 188,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Medicine Ball Crossover Push-Up",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 189,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Chest Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 190,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Dumbbell Bench Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 191,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Dumbbell Fly",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 192,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Dumbbell Push-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 193,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Kneeling Push-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 194,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Machine Bench Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 195,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Machine Vertical Bench Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 196,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Pec Deck",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 197,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Pec Deck Fly",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 198,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Push-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 199,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Twisting Dumbbell Bench Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 200,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Wide-Grip Push-Up",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 201,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Alternating Dumbbell Bench Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 202,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Barbell Bench Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 203,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Flat Bench Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 204,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Low Cable Crossover",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 205,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Single-Arm Dumbbell Bench Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 206,
+    "muscleGroup": "Chest - Pectoralis",
+    "name": "Smith Machine Bench Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 207,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Barbell Shoulder Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 208,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Bent-Over Cable Rear Delt Raise",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 209,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Kneeling Single-Arm Cable Rear Delt Raise",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 210,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Reverse Incline Dumbbell Rear Delt Raise",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 211,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Smith Machine Shoulder Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 212,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Dumbbell Alternating Shoulder Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 213,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Dumbbell Front Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 214,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Dumbbell Lateral Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 215,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Front Plate Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 216,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Lying Dumbbell External Rotation",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 217,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Lying Dumbbell Rear Delt Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 218,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Lying Single-Arm Dumbbell Rear Delt Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 219,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Machine Shoulder Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 220,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Seated Dumbbell Rear Delt Raise",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 221,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Single-Arm Dumbbell Shoulder Press",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 222,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Arnold Dumbbell Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 223,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Barbell Front Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 224,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Bent-Over Dumbbell Rear Delt Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 225,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Cable Front Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 226,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Cable Lateral Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 227,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Dumbbell Shoulder Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 228,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Dumbbell Twisting Shoulder Press",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 229,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Pec Deck Real Delt Extensions",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "S"
+  },
+  {
+    "id": 230,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Seated Dumbbell Rear Delt Elbow Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 231,
+    "muscleGroup": "Shoulders - Delts/Traps",
+    "name": "Single-Arm Cable Lateral Raise",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 232,
+    "muscleGroup": "Shoulders - Rotator Cuff",
+    "name": "Cable External Rotation",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 233,
+    "muscleGroup": "Triceps",
+    "name": "Close-Grip Bench Press",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 234,
+    "muscleGroup": "Triceps",
+    "name": "Decline Dumbbell Triceps Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 235,
+    "muscleGroup": "Triceps",
+    "name": "Decline EZ-Bar Tricep Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 236,
+    "muscleGroup": "Triceps",
+    "name": "Decline Single Dumbbell Triceps Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 237,
+    "muscleGroup": "Triceps",
+    "name": "Decline Single-Arm Dumbbell Triceps Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 238,
+    "muscleGroup": "Triceps",
+    "name": "Incline EZ-Bar Tricep Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 239,
+    "muscleGroup": "Triceps",
+    "name": "Lying Reverse EZ-Bar Triceps Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 240,
+    "muscleGroup": "Triceps",
+    "name": "Overhead EZ-Bar Triceps Extension",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 241,
+    "muscleGroup": "Triceps",
+    "name": "Reverse Tricep Pushdown",
+    "level": "Advanced",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 242,
+    "muscleGroup": "Triceps",
+    "name": "Assisted Dips",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 243,
+    "muscleGroup": "Triceps",
+    "name": "Dumbbell Kickback",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 244,
+    "muscleGroup": "Triceps",
+    "name": "Kneeling Cable Triceps Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 245,
+    "muscleGroup": "Triceps",
+    "name": "Lying Single Dumbbell Triceps Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 246,
+    "muscleGroup": "Triceps",
+    "name": "Lying Single-Arm Dumbbell Triceps Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 247,
+    "muscleGroup": "Triceps",
+    "name": "Lying Tricep Extensions",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 248,
+    "muscleGroup": "Triceps",
+    "name": "Machine Dips",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "M",
+    "joint": "M"
+  },
+  {
+    "id": 249,
+    "muscleGroup": "Triceps",
+    "name": "Overhead Dumbbell Triceps Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 250,
+    "muscleGroup": "Triceps",
+    "name": "Overhead Single Dumbbell Tricep Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 251,
+    "muscleGroup": "Triceps",
+    "name": "Overhead Single-Arm Dumbbell Tricep Extension",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 252,
+    "muscleGroup": "Triceps",
+    "name": "Single-Arm Towel Triceps Pushdown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 253,
+    "muscleGroup": "Triceps",
+    "name": "Towel Triceps Pushdown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 254,
+    "muscleGroup": "Triceps",
+    "name": "Tricep Extensions",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 255,
+    "muscleGroup": "Triceps",
+    "name": "Tricep Pushdown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 256,
+    "muscleGroup": "Triceps",
+    "name": "Tricep Pushdown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 257,
+    "muscleGroup": "Triceps",
+    "name": "V-Bar Tricep Pushdown",
+    "level": "Beginner",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 258,
+    "muscleGroup": "Triceps",
+    "name": "Bench Dips",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 259,
+    "muscleGroup": "Triceps",
+    "name": "Diamond Push-Up",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 260,
+    "muscleGroup": "Triceps",
+    "name": "Dips",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 261,
+    "muscleGroup": "Triceps",
+    "name": "Forward Lean Dips",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "M"
+  },
+  {
+    "id": 262,
+    "muscleGroup": "Triceps",
+    "name": "Leaning Overhead Tricep Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 263,
+    "muscleGroup": "Triceps",
+    "name": "Low Cable Triceps Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 264,
+    "muscleGroup": "Triceps",
+    "name": "Lying Cable Triceps Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 265,
+    "muscleGroup": "Triceps",
+    "name": "Lying EZ-Bar Triceps Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 266,
+    "muscleGroup": "Triceps",
+    "name": "Lying Overhead EZ-Bar Tricep Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "FW",
+    "joint": "S"
+  },
+  {
+    "id": 267,
+    "muscleGroup": "Triceps",
+    "name": "Overhead Rope Cable Tricep Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 268,
+    "muscleGroup": "Triceps",
+    "name": "Overhead Single-Arm Cable Tricep Extension",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 269,
+    "muscleGroup": "Triceps",
+    "name": "Rope Triceps Pushdown",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  },
+  {
+    "id": 270,
+    "muscleGroup": "Triceps",
+    "name": "Single-Arm Triceps Pushdown",
+    "level": "Intermediate",
+    "region": "Upper",
+    "function": "Push",
+    "modality": "C",
+    "joint": "S"
+  }
+]
