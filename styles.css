@@ -5,3 +5,22 @@
 .quickActions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:14px}.quickActions .autoBtn,.quickActions .fullBtn{width:100%;min-height:52px}.fullBtn{background:#30d158!important;color:#06140b!important}@media(max-width:390px){.quickActions{grid-template-columns:1fr}}
 
 .finishActions{display:grid;grid-template-columns:2fr 1fr;gap:10px;margin-top:14px}.finishActions button{width:100%;min-height:50px}.cancelRAW{background:#2a1818!important;color:#ff6961!important;border:1px solid #5a2525!important}@media(max-width:390px){.finishActions{grid-template-columns:1fr}}
+
+/* V1.7: per-exercise notes and add-set action */
+.exerciseNotes{display:flex;flex-direction:column;gap:7px;margin:14px 0 10px}.noteInput{box-sizing:border-box;width:100%;min-height:68px;padding:12px;border:1px solid #3b4351;border-radius:12px;background:#1c222b;color:#fff;font:inherit;resize:vertical}.noteInput:focus{outline:2px solid #a4e86b;outline-offset:1px}.savedNote{white-space:pre-wrap;overflow-wrap:anywhere;margin-top:9px;color:#cbd5e1;font-size:0.92rem}.addSet{border:1px solid #a4e86b!important;color:#b5f287!important}.actionRow{flex-wrap:wrap}
+
+/* V1.8: Custom RAW builder and in-session exercise picker */
+.wide{display:block;width:100%;min-height:49px}
+.customBtn{background:#30353b;color:#e9f8d4;border:1px solid #a7f432;margin:14px 0;font-size:16px}
+.addExercise{background:#263224;color:#c6fa93;border:1px solid #729e44;margin:12px 0}
+.pickerFilter{width:100%;margin:10px 0 12px}
+.pickerResults{max-height:52vh;overflow-y:auto;overscroll-behavior:contain}
+.pickerItem{display:grid;grid-template-columns:1fr auto;grid-template-rows:auto auto;gap:4px 12px;text-align:left;align-items:center;width:100%;border:1px solid #35383b;border-radius:12px;padding:12px;margin:7px 0;background:#272729}
+.pickerName{font-weight:750;grid-column:1;grid-row:1}
+.pickerItem .muted{grid-column:1;grid-row:2}
+.pickerAction{grid-column:2;grid-row:1 / 3;color:#a7f432;font-size:13px}
+.pickerItem.picked{opacity:.68}.pickerItem.picked .pickerAction{color:#d1d1d6}
+.chosenRow{display:flex;align-items:center;gap:6px;padding:10px 0;border-bottom:1px solid #38383a}
+.chosenRow .grow{display:flex;flex-direction:column;gap:3px}
+.chosenRow button{padding:6px 9px}
+button:disabled{opacity:.35}
