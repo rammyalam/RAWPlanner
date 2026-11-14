@@ -25,3 +25,6 @@ Run on Windows with: `python -m http.server 8080`
 - While a RAW is active, **+ Add Exercise** lets you choose another exercise from the library.
 - No custom templates are stored; only completed RAWs are saved to History as before.
 - Previous performance, set entry, notes, swapping and cancellation work in custom RAWs.
+
+## V1.9 — Active workout recovery
+Active RAWs autosave to localStorage separately from completed workout history on each set/weight/reps/note edit and exercise change, and on app backgrounding. Reopening the same app origin resumes the active RAW. Finish and Cancel explicitly clear the autosaved draft. Device/browser storage is local and not synced between devices.
